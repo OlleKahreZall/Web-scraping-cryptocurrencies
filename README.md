@@ -19,4 +19,5 @@ DOWNLOADER_MIDDLEWARES = {
      'scrapy_selenium.SeleniumMiddleware': 800
      } 
 ```
-sds
+The web pages are scraped by using the script file cryptoscraper.py.
+
