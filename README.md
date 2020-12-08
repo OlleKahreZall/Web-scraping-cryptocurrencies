@@ -30,6 +30,6 @@ Furthermore, the ipynb file [data-cleaning_visualization.ipynb](https://github.c
 
 ## Upcoming project
 
-Next step is to analyze the data more deeply. Is there an overall correlation between the cryptocurrencies? Or are there any outliers that are not affected by the fluctuations on the market? And is it possible to make predictions out of this data?
+The next step is to analyze the data more deeply. Is there an overall correlation between the cryptocurrencies? Or are there any outliers that are not affected by the fluctuations on the market? And is it possible to make predictions out of this data?
 
 To answer these questions, using different machine learning techniques would be necessary to use. Since a lot of data is considered here, a first step would be to narrow down the project and start with studying only a few cryptocurrencies. In this case, using supervised machine learning techniques such as multiple linear regression, regression trees or multivariate regression can be used to investigate if there exist patterns between the cryptocurrencies. If it that is the case, a more in-depth analysis would be necessary for all the data. If that is not the case, unsupervised machine learning techniques, such as different clustering methods (for example k-means or DBSCAN), would be an option.
