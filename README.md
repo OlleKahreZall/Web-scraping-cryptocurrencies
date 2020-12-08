@@ -23,5 +23,7 @@ The web pages are scraped by using the script 'cryptoscraper.py' (see the file f
 
 Furthermore, the ipynb file 'cryptocurrency_analysis.ipynb' was used to pre-process the data. It was also used to visualize the currently top 3 rated cryptocurrencies and their historical data. 
 
-
+![](https://github.com/OlleKahreZall/Portfolio/blob/main/Images/close.png)
+![](https://github.com/OlleKahreZall/Portfolio/blob/main/Images/volume.png)
+![](https://github.com/OlleKahreZall/Portfolio/blob/main/Images/market_cap.png)
 
