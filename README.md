@@ -8,7 +8,8 @@
 
 I used google crhome as web browser and the selenium_scrapy module in this project. Thus, the following were inserted in the settings.py file (which is generated when the spider is constructed):
 
-'code'
+``
+`code`
 from shutil import which 
   
 SELENIUM_DRIVER_NAME = 'chrome'
@@ -18,5 +19,5 @@ SELENIUM_DRIVER_ARGUMENTS=['--headless']
 DOWNLOADER_MIDDLEWARES = { 
      'scrapy_selenium.SeleniumMiddleware': 800
      } 
-'code'
-
+``
+sds
