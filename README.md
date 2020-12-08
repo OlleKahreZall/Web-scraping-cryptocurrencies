@@ -32,4 +32,4 @@ Furthermore, the ipynb file 'data-cleaning_visualization.ipynb' was used to pre-
 
 Next step is to analyze the data more deeply. Are there an overall correlation between the cryptocurrencies? Or are there any outliers that are not affected by the fluctuations on the market? And is it possible to make predictions out of this information?
 
-To answer these questions, a statistical analysis will be needed to begin with
+To answer these questions, using different machine learning techniques would be necessary to apply on the data. 
