@@ -19,5 +19,7 @@ DOWNLOADER_MIDDLEWARES = {
      'scrapy_selenium.SeleniumMiddleware': 800
      } 
 ```
-The web pages are scraped by using the script file cryptoscraper.py.
+The web pages are scraped by using the script 'cryptoscraper.py' (see the file for more details). All the data collected from the web pages were stored in the csv file'cryptocurrencies_top-100.csv'.
+
+Furthermore, the ipynb file 'cryptocurrency_analysis.ipynb' was used to pre-process the data. It was also used to visualize the currently top 3 rated cryptocurrencies and their historical data. 
 
