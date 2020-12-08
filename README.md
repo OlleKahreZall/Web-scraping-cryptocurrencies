@@ -1,4 +1,4 @@
-## [Web scraping project - extracting data from the top 100 biggest cryptocurrencies](https://github.com/OlleKahreZall/Web-scraping-cryptocurrencies)
+# Web scraping project - extracting data from the top 100 biggest cryptocurrencies
 
 * In this project, I have scraped the 100 biggest cryptocurrencies based on their market cap from [coinmarketcap.com](https://coinmarketcap.com/). 
 * The web-crawling framework Scrapy was used. In addition, the portable framework Selenium was used since the web pages were dynamic.
