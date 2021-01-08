@@ -6,7 +6,7 @@
 * This spider has fetched each cryptocurrency's data from its first day were documented on the cryptocurrency market (according to [coinmarketcap.com](https://coinmarketcap.com/)) to the 2nd of December. 
 * In total, more than 800 000 data points have been extracted.
 
-I used google crhome as web browser and the selenium_scrapy module in this project. Thus, the following were inserted in the settings.py file (which is generated when the spider is constructed):
+I used google chrome as web browser and the selenium_scrapy module in this project. Thus, the following were inserted in the settings.py file (which is generated when the spider is constructed):
 
 ```
 from shutil import which 
@@ -30,4 +30,4 @@ Furthermore, the ipynb file [data-cleaning_visualization.ipynb](https://github.c
 
 ## Upcoming project
 
-As of January 2021, the price of bitcoin has drastically increased since December 2020: from approximately 19,000$ to 38,000$. The next step in this project is to investigate different predictive algorithms, such as time series forecasting and recurrent neural netowrks, to evaluate their predictions of the price of bitcoin. 
+As of January 2021, the price of bitcoin has drastically increased since December 2020: from approximately 19,000$ to 38,000$. The next step in this project is to investigate different predictive models, such as time series forecasting and recurrent neural networks, to evaluate their predictions for different cryptocurrencies. I am especially interested to see if any of these models will be able to predict the increased price of bitcoin between Decmeber and January.
