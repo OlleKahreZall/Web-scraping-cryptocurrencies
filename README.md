@@ -30,4 +30,6 @@ Furthermore, the ipynb file [data-cleaning_visualization.ipynb](https://github.c
 
 ## Upcoming project
 
-As of January 2021, the price of bitcoin has drastically increased since December 2020: from approximately 19,000$ to 38,000$. The next step in this project is to investigate different predictive models, such as time series forecasting and recurrent neural networks, to evaluate their predictions for different cryptocurrencies. I am especially interested to see if any of these models will be able to predict the increased price of bitcoin between Decmeber and January.
+As of January 2021, the price of bitcoin has drastically increased since December 2020: from approximately 19,000$ to 38,000$. The next step in this project is to investigate different predictive models, such as time series forecasting and recurrent neural networks, to evaluate their predictions for different cryptocurrencies, but especially for bitcoin. 
+
+More information will be provided soon!
